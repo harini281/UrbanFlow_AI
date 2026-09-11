@@ -1,0 +1,4 @@
+task,model,validation_mae,validation_rmse,validation_r2,test_mae,test_rmse,test_r2
+Base Fare Prediction,Tuned HistGradientBoosting,4.174575,8.395087,0.788093,3.931388,8.100816,0.794363
+ETA Prediction,Enhanced Log-Target HistGradientBoosting,4.457001774397727,18.27180939396659,0.3238081434625325,4.148046739860237,20.89031159179757,0.26756761825020436
+Demand Forecasting,HistGradientBoosting,23.546835,35.341348,0.93312,22.514409,34.041943,0.939418

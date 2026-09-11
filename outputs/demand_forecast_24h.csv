@@ -1,0 +1,241 @@
+timestamp,zone_id,predicted_demand,borough_name,zone_name,service_zone
+2026-04-01 00:00:00,237,38.57960328734265,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 00:00:00,132,249.66191452969684,Queens,JFK Airport,Airports
+2026-04-01 00:00:00,161,66.12284669699294,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 00:00:00,236,19.5578271699356,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 00:00:00,186,54.98637089568365,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 00:00:00,162,47.001162860321315,Manhattan,Midtown East,Yellow Zone
+2026-04-01 00:00:00,230,106.69037695659404,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 00:00:00,142,36.90559883344187,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 00:00:00,170,42.73550806442301,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 00:00:00,234,60.33535969452728,Manhattan,Union Sq,Yellow Zone
+2026-04-01 01:00:00,237,17.576024256318597,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 01:00:00,132,113.56621815610804,Queens,JFK Airport,Airports
+2026-04-01 01:00:00,161,25.529689477989663,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 01:00:00,236,10.847933103798727,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 01:00:00,186,33.80863270713352,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 01:00:00,162,20.814087746781006,Manhattan,Midtown East,Yellow Zone
+2026-04-01 01:00:00,230,48.8115272513261,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 01:00:00,142,20.949735671302637,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 01:00:00,170,22.800247009867554,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 01:00:00,234,22.092983303836775,Manhattan,Union Sq,Yellow Zone
+2026-04-01 02:00:00,237,11.46002636711762,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 02:00:00,132,32.964391586668675,Queens,JFK Airport,Airports
+2026-04-01 02:00:00,161,14.283040212364936,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 02:00:00,236,6.698134513948777,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 02:00:00,186,18.198691398395027,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 02:00:00,162,13.398995522119154,Manhattan,Midtown East,Yellow Zone
+2026-04-01 02:00:00,230,24.148960733039303,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 02:00:00,142,12.66359153039641,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 02:00:00,170,12.80439255262236,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 02:00:00,234,11.195936934873954,Manhattan,Union Sq,Yellow Zone
+2026-04-01 03:00:00,237,6.736537186802399,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 03:00:00,132,16.638057824861914,Queens,JFK Airport,Airports
+2026-04-01 03:00:00,161,10.969736539674242,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 03:00:00,236,6.230051468777657,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 03:00:00,186,13.330544337161117,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 03:00:00,162,10.327858709591146,Manhattan,Midtown East,Yellow Zone
+2026-04-01 03:00:00,230,21.23617533104379,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 03:00:00,142,10.373822957232862,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 03:00:00,170,9.767006815460453,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 03:00:00,234,6.115453191664696,Manhattan,Union Sq,Yellow Zone
+2026-04-01 04:00:00,237,8.386074430753904,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 04:00:00,132,14.774041453700393,Queens,JFK Airport,Airports
+2026-04-01 04:00:00,161,10.835221528096316,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 04:00:00,236,7.938729077735894,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 04:00:00,186,11.15924247507204,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 04:00:00,162,9.424978127292995,Manhattan,Midtown East,Yellow Zone
+2026-04-01 04:00:00,230,17.835275875758143,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 04:00:00,142,7.39532949710581,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 04:00:00,170,7.103883040878459,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 04:00:00,234,5.095268773173895,Manhattan,Union Sq,Yellow Zone
+2026-04-01 05:00:00,237,18.445850835788516,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 05:00:00,132,64.42154125644339,Queens,JFK Airport,Airports
+2026-04-01 05:00:00,161,18.347250856650923,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 05:00:00,236,22.129686308612246,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 05:00:00,186,44.306953343398376,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 05:00:00,162,20.23523186987763,Manhattan,Midtown East,Yellow Zone
+2026-04-01 05:00:00,230,25.594145203687525,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 05:00:00,142,12.707346851493625,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 05:00:00,170,16.632844108984717,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 05:00:00,234,9.860997663741939,Manhattan,Union Sq,Yellow Zone
+2026-04-01 06:00:00,237,49.82990294953601,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 06:00:00,132,132.3881398665661,Queens,JFK Airport,Airports
+2026-04-01 06:00:00,161,51.55646984140944,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 06:00:00,236,70.38458990580423,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 06:00:00,186,119.05181704568287,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 06:00:00,162,65.93631105715217,Manhattan,Midtown East,Yellow Zone
+2026-04-01 06:00:00,230,49.94205256504005,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 06:00:00,142,44.15167665392908,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 06:00:00,170,51.69222707343504,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 06:00:00,234,27.645694576172165,Manhattan,Union Sq,Yellow Zone
+2026-04-01 07:00:00,237,165.14321278717878,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 07:00:00,132,165.65443889770455,Queens,JFK Airport,Airports
+2026-04-01 07:00:00,161,104.1945784378493,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 07:00:00,236,219.34296780970902,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 07:00:00,186,199.02918509390113,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 07:00:00,162,135.90786402834956,Manhattan,Midtown East,Yellow Zone
+2026-04-01 07:00:00,230,89.24979056736774,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 07:00:00,142,108.15583589501666,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 07:00:00,170,108.38020340693937,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 07:00:00,234,56.02631852412912,Manhattan,Union Sq,Yellow Zone
+2026-04-01 08:00:00,237,286.73196522517384,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 08:00:00,132,156.79999250547908,Queens,JFK Airport,Airports
+2026-04-01 08:00:00,161,173.103294050821,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 08:00:00,236,329.9420048561751,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 08:00:00,186,258.9737304546958,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 08:00:00,162,186.71390882219455,Manhattan,Midtown East,Yellow Zone
+2026-04-01 08:00:00,230,135.8746721896994,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 08:00:00,142,171.11211730811948,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 08:00:00,170,174.2386555721852,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 08:00:00,234,98.96948905905926,Manhattan,Union Sq,Yellow Zone
+2026-04-01 09:00:00,237,317.06371983572177,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 09:00:00,132,119.86660413241376,Queens,JFK Airport,Airports
+2026-04-01 09:00:00,161,202.3343299175894,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 09:00:00,236,350.0364626027143,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 09:00:00,186,275.11124666155604,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 09:00:00,162,203.40850244570572,Manhattan,Midtown East,Yellow Zone
+2026-04-01 09:00:00,230,159.81907070591507,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 09:00:00,142,187.3086347692635,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 09:00:00,170,199.5049393239046,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 09:00:00,234,121.90125697870792,Manhattan,Union Sq,Yellow Zone
+2026-04-01 10:00:00,237,333.44835915209035,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 10:00:00,132,118.94189622195402,Queens,JFK Airport,Airports
+2026-04-01 10:00:00,161,219.70856268056872,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 10:00:00,236,330.6523963752142,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 10:00:00,186,248.75694720022486,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 10:00:00,162,209.51268263953756,Manhattan,Midtown East,Yellow Zone
+2026-04-01 10:00:00,230,161.90062747369387,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 10:00:00,142,186.8112180344355,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 10:00:00,170,196.02398913461323,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 10:00:00,234,122.94823323136217,Manhattan,Union Sq,Yellow Zone
+2026-04-01 11:00:00,237,356.5923886120325,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 11:00:00,132,139.46604468858433,Queens,JFK Airport,Airports
+2026-04-01 11:00:00,161,270.03254153615086,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 11:00:00,236,323.7713203503968,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 11:00:00,186,247.48494141219865,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 11:00:00,162,215.79310793158078,Manhattan,Midtown East,Yellow Zone
+2026-04-01 11:00:00,230,164.78673262185188,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 11:00:00,142,197.16592951638057,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 11:00:00,170,202.84815014166136,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 11:00:00,234,141.08068155229847,Manhattan,Union Sq,Yellow Zone
+2026-04-01 12:00:00,237,405.6193310788338,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 12:00:00,132,155.10692971224967,Queens,JFK Airport,Airports
+2026-04-01 12:00:00,161,298.7231840637584,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 12:00:00,236,365.63374529847806,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 12:00:00,186,229.13389859500197,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 12:00:00,162,219.6575167045742,Manhattan,Midtown East,Yellow Zone
+2026-04-01 12:00:00,230,171.72152878087732,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 12:00:00,142,200.48047630029774,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 12:00:00,170,221.08119136390306,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 12:00:00,234,160.4046981090243,Manhattan,Union Sq,Yellow Zone
+2026-04-01 13:00:00,237,433.4310318160827,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 13:00:00,132,188.9809543710625,Queens,JFK Airport,Airports
+2026-04-01 13:00:00,161,339.3590360425763,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 13:00:00,236,337.66796187106144,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 13:00:00,186,224.44436405235876,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 13:00:00,162,235.25150902382006,Manhattan,Midtown East,Yellow Zone
+2026-04-01 13:00:00,230,173.06949146345053,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 13:00:00,142,207.83143103678975,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 13:00:00,170,220.6562215446365,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 13:00:00,234,174.24602825831988,Manhattan,Union Sq,Yellow Zone
+2026-04-01 14:00:00,237,467.60754315214285,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 14:00:00,132,257.31130120519055,Queens,JFK Airport,Airports
+2026-04-01 14:00:00,161,365.6813365886447,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 14:00:00,236,354.0331049070114,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 14:00:00,186,203.58897789983448,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 14:00:00,162,251.7437632960376,Manhattan,Midtown East,Yellow Zone
+2026-04-01 14:00:00,230,186.17017814726614,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 14:00:00,142,206.35559266746546,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 14:00:00,170,220.84041165155648,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 14:00:00,234,201.45627216021282,Manhattan,Union Sq,Yellow Zone
+2026-04-01 15:00:00,237,452.21908038906395,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 15:00:00,132,328.49075032497166,Queens,JFK Airport,Airports
+2026-04-01 15:00:00,161,383.78141478817685,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 15:00:00,236,354.3470147583986,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 15:00:00,186,213.52576886963908,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 15:00:00,162,259.1907179471075,Manhattan,Midtown East,Yellow Zone
+2026-04-01 15:00:00,230,206.400303982323,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 15:00:00,142,215.5861879333383,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 15:00:00,170,221.95404717637658,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 15:00:00,234,210.21540162254624,Manhattan,Union Sq,Yellow Zone
+2026-04-01 16:00:00,237,430.6782129627915,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 16:00:00,132,382.9136158990999,Queens,JFK Airport,Airports
+2026-04-01 16:00:00,161,442.0121957330648,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 16:00:00,236,331.8307387534404,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 16:00:00,186,220.74296324998178,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 16:00:00,162,298.7646697516276,Manhattan,Midtown East,Yellow Zone
+2026-04-01 16:00:00,230,242.45006530133767,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 16:00:00,142,200.46493933828967,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 16:00:00,170,235.90132175330646,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 16:00:00,234,229.22046383058625,Manhattan,Union Sq,Yellow Zone
+2026-04-01 17:00:00,237,457.5677159166472,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 17:00:00,132,359.27564171590393,Queens,JFK Airport,Airports
+2026-04-01 17:00:00,161,549.8143558504144,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 17:00:00,236,368.889289238294,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 17:00:00,186,247.24400794054955,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 17:00:00,162,396.8041676852419,Manhattan,Midtown East,Yellow Zone
+2026-04-01 17:00:00,230,293.4594201496501,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 17:00:00,142,233.11723173393509,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 17:00:00,170,277.92065600169997,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 17:00:00,234,276.02609749117204,Manhattan,Union Sq,Yellow Zone
+2026-04-01 18:00:00,237,449.8948264916391,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 18:00:00,132,342.26843246858016,Queens,JFK Airport,Airports
+2026-04-01 18:00:00,161,625.0797077190042,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 18:00:00,236,345.6889268134525,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 18:00:00,186,244.1748446231801,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 18:00:00,162,395.22142590366764,Manhattan,Midtown East,Yellow Zone
+2026-04-01 18:00:00,230,317.9166443974801,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 18:00:00,142,255.47777881701077,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 18:00:00,170,297.1158627510473,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 18:00:00,234,299.9864311676862,Manhattan,Union Sq,Yellow Zone
+2026-04-01 19:00:00,237,353.59220625259275,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 19:00:00,132,336.5950036260643,Queens,JFK Airport,Airports
+2026-04-01 19:00:00,161,522.7030033454068,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 19:00:00,236,244.51696278664852,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 19:00:00,186,209.95451659416528,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 19:00:00,162,348.0803882655215,Manhattan,Midtown East,Yellow Zone
+2026-04-01 19:00:00,230,283.99941663379855,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 19:00:00,142,214.48855155188033,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 19:00:00,170,243.6097670109106,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 19:00:00,234,277.2177232207702,Manhattan,Union Sq,Yellow Zone
+2026-04-01 20:00:00,237,322.354767954799,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 20:00:00,132,385.6624713214624,Queens,JFK Airport,Airports
+2026-04-01 20:00:00,161,575.3559030109819,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 20:00:00,236,205.64217019681223,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 20:00:00,186,187.57355599241617,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 20:00:00,162,328.07462130382805,Manhattan,Midtown East,Yellow Zone
+2026-04-01 20:00:00,230,319.7770684781937,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 20:00:00,142,214.69051542967827,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 20:00:00,170,223.55353780852008,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 20:00:00,234,290.0224454451555,Manhattan,Union Sq,Yellow Zone
+2026-04-01 21:00:00,237,352.68645052784956,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 21:00:00,132,360.437156104346,Queens,JFK Airport,Airports
+2026-04-01 21:00:00,161,619.0622569393265,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 21:00:00,236,187.78442744551856,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 21:00:00,186,191.90965973089322,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 21:00:00,162,303.8209361442501,Manhattan,Midtown East,Yellow Zone
+2026-04-01 21:00:00,230,512.3860521267666,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 21:00:00,142,282.3746790459529,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 21:00:00,170,220.7155233982225,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 21:00:00,234,318.5264170971109,Manhattan,Union Sq,Yellow Zone
+2026-04-01 22:00:00,237,246.2910454681585,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 22:00:00,132,341.97598995460214,Queens,JFK Airport,Airports
+2026-04-01 22:00:00,161,447.6093874895696,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 22:00:00,236,109.47744775433941,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 22:00:00,186,220.14457778066233,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 22:00:00,162,211.5909956978423,Manhattan,Midtown East,Yellow Zone
+2026-04-01 22:00:00,230,547.8021445771715,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 22:00:00,142,287.2737603152562,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 22:00:00,170,181.1602073822348,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 22:00:00,234,286.38606107797403,Manhattan,Union Sq,Yellow Zone
+2026-04-01 23:00:00,237,118.08245095027655,Manhattan,Upper East Side South,Yellow Zone
+2026-04-01 23:00:00,132,302.40878720189136,Queens,JFK Airport,Airports
+2026-04-01 23:00:00,161,225.18229647469755,Manhattan,Midtown Center,Yellow Zone
+2026-04-01 23:00:00,236,47.06661742727852,Manhattan,Upper East Side North,Yellow Zone
+2026-04-01 23:00:00,186,150.37014385395923,Manhattan,Penn Station/Madison Sq West,Yellow Zone
+2026-04-01 23:00:00,162,110.57465010017289,Manhattan,Midtown East,Yellow Zone
+2026-04-01 23:00:00,230,293.39223480574174,Manhattan,Times Sq/Theatre District,Yellow Zone
+2026-04-01 23:00:00,142,215.05904122270178,Manhattan,Lincoln Square East,Yellow Zone
+2026-04-01 23:00:00,170,101.3984310819125,Manhattan,Murray Hill,Yellow Zone
+2026-04-01 23:00:00,234,162.33950707943185,Manhattan,Union Sq,Yellow Zone

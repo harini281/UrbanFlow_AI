@@ -1,0 +1,9 @@
+anomaly_type,affected_records,percentage_of_total,decision
+Negative trip duration,1942,0.003995738263259566,Exclude from ETA; retain raw
+Zero trip duration,649668,1.3367164191633962,Exclude from ETA; retain raw
+Provider 7 zero-duration records,642536,1.322042060103887,Exclude from ETA; retain for fare/spatial analysis
+Zero distance,1478770,3.0426250625954414,Retain and flag
+Zero rider count,231578,0.47648047143621197,Retain and flag
+Unrealistic speed >100 mph,11899,0.024482641397798953,Exclude from ETA; retain raw
+Negative base fare,2400031,4.938154325287908,Retain and flag; investigate for fare modelling
+Negative charge total,875399,1.8011664675175902,Retain and flag

@@ -1,0 +1,2 @@
+model,target,zones,validation_mae,validation_rmse,validation_r2,test_mae,test_rmse,test_r2
+HistGradientBoostingRegressor,Hourly pickup demand,10,23.546834581969545,35.3413477079161,0.9331200050552773,22.514409329345842,34.04194267618583,0.9394176888072243

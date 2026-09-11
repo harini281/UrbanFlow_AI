@@ -1,0 +1,353 @@
+:root{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#e8eef7;background:#07111f;font-synthesis:none;text-rendering:optimizeLegibility}*{box-sizing:border-box}body{margin:0;min-width:320px;background:radial-gradient(circle at 85% -10%,#17375c 0,transparent 34%),#07111f}.hero{padding:42px max(24px,calc((100% - 1240px)/2));display:flex;justify-content:space-between;align-items:flex-start;border-bottom:1px solid #1a2b40}.eyebrow{font-size:11px;letter-spacing:2px;color:#7f9ab8;font-weight:800}.hero h1{font-size:48px;line-height:1;margin:10px 0 12px;letter-spacing:-2px}.hero h1 span{color:#67e8f9}.hero p{margin:0;color:#9db0c8;max-width:650px}.status{border:1px solid #28415d;border-radius:999px;padding:9px 13px;font-size:12px;color:#a9bdd4;display:flex;gap:8px;align-items:center}.status span,.dot{width:8px;height:8px;border-radius:50%;display:inline-block;background:#4ade80}.container{max-width:1240px;margin:0 auto;padding:26px 24px 60px}.stats-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.stat,.section{background:rgba(12,27,45,.84);border:1px solid #1a3048;border-radius:18px}.stat{padding:20px;display:flex;gap:14px;align-items:center}.stat-icon{width:42px;height:42px;display:grid;place-items:center;border-radius:12px;background:#102d47;color:#67e8f9}.stat-label{font-size:12px;color:#7891ad}.stat-value{font-size:25px;font-weight:800;margin-top:3px}.section{padding:20px;margin-top:18px}.section-head h2{margin:0;font-size:18px}.section-head p{margin:5px 0 16px;color:#7891ad;font-size:13px}.chart{height:310px}.two-col{display:grid;grid-template-columns:1fr 1fr;gap:18px}.table{display:flex;flex-direction:column}.row{display:flex;align-items:center;gap:12px;padding:11px 0;border-bottom:1px solid #182c43;font-size:13px}.row:last-child{border:0}.rank{font-variant-numeric:tabular-nums;color:#58718c;font-weight:800;width:24px}.grow{flex:1;display:flex;align-items:center;gap:5px;color:#c8d6e6}.row strong{font-variant-numeric:tabular-nums}.focus{display:grid;grid-template-columns:repeat(3,1fr);gap:12px}.focus div{padding:15px;border:1px solid #1b344e;border-radius:14px;display:flex;flex-direction:column;gap:7px}.focus svg{color:#67e8f9}.focus span{font-size:11px;color:#7891ad}.focus strong{font-size:14px}.model-list{display:flex;flex-direction:column;gap:10px}.model{display:grid;grid-template-columns:14px 1fr auto;align-items:center;padding:12px;border:1px solid #1b344e;border-radius:12px;font-size:12px;font-weight:800}.model small{color:#7891ad;font-weight:500}.dot.bad{background:#fb7185}.loading,.error{max-width:800px;margin:20vh auto;text-align:center;color:#b6c7d9;padding:30px}.error{color:#fb9aa8} @media(max-width:850px){.stats-grid{grid-template-columns:1fr 1fr}.two-col{grid-template-columns:1fr}.focus{grid-template-columns:1fr}.hero{padding:28px 20px}.hero h1{font-size:38px}.status{display:none}}@media(max-width:520px){.stats-grid{grid-template-columns:1fr}.container{padding:18px 14px}}
+
+/* ============================================================
+   URBANFLOW AI — FINAL VISIBILITY FIX
+   DEMAND PAGE
+   PUT THIS AT THE VERY BOTTOM OF styles.css
+   ============================================================ */
+
+.demand-page,
+.demand-page * {
+  opacity: 1 !important;
+  filter: none !important;
+  text-shadow: none !important;
+}
+
+
+/* ============================================================
+   MAIN PAGE
+   ============================================================ */
+
+.demand-page {
+  color: #172f44 !important;
+  background: transparent !important;
+}
+
+
+/* ============================================================
+   HEADER
+   ============================================================ */
+
+.demand-page .demand-header h1 {
+  color: #172f44 !important;
+}
+
+.demand-page .demand-header p {
+  color: #526a7d !important;
+}
+
+.demand-page .demand-eyebrow {
+  color: #d71935 !important;
+}
+
+
+/* ============================================================
+   KPI CARDS
+   ============================================================ */
+
+.demand-page .demand-kpi {
+  background: #ffffff !important;
+  border: 1px solid #dce4ea !important;
+}
+
+.demand-page .demand-kpi-content span {
+  color: #526a7d !important;
+}
+
+.demand-page .demand-kpi-content strong {
+  color: #172f44 !important;
+}
+
+.demand-page .demand-kpi-content small {
+  color: #62798b !important;
+}
+
+.demand-page .demand-kpi-icon {
+  background: #fff0f2 !important;
+  border: 1px solid #f3c4cb !important;
+}
+
+.demand-page .demand-kpi-icon svg {
+  color: #d71935 !important;
+}
+
+
+/* ============================================================
+   PRIORITY ZONE
+   ============================================================ */
+
+.demand-page .priority-card {
+  background: #ffffff !important;
+  border: 1px solid #efcbd1 !important;
+}
+
+.demand-page .priority-header h2 {
+  color: #172f44 !important;
+}
+
+.demand-page .priority-header p {
+  color: #526a7d !important;
+}
+
+.demand-page .section-label {
+  color: #d71935 !important;
+}
+
+.demand-page .forecast-badge {
+  color: #c91532 !important;
+  background: #fff0f2 !important;
+  border: 1px solid #f0b8c1 !important;
+}
+
+
+/* ============================================================
+   PRIORITY METRICS
+   ============================================================ */
+
+.demand-page .priority-metrics {
+  background: #f8fafc !important;
+}
+
+.demand-page .priority-metric {
+  background: #f8fafc !important;
+}
+
+.demand-page .priority-metric span {
+  color: #526a7d !important;
+}
+
+.demand-page .priority-metric strong {
+  color: #172f44 !important;
+}
+
+.demand-page .priority-icon {
+  background: #fff0f2 !important;
+}
+
+.demand-page .priority-icon svg {
+  color: #d71935 !important;
+}
+
+
+/* ============================================================
+   ALL PANELS
+   ============================================================ */
+
+.demand-page .forecast-panel,
+.demand-page .zone-priority-panel,
+.demand-page .provenance-card {
+  background: #ffffff !important;
+  border: 1px solid #dce4ea !important;
+}
+
+
+/* ============================================================
+   PANEL HEADINGS
+   ============================================================ */
+
+.demand-page .panel-heading h2 {
+  color: #172f44 !important;
+}
+
+.demand-page .panel-heading p {
+  color: #526a7d !important;
+}
+
+.demand-page .panel-heading .section-label {
+  color: #d71935 !important;
+}
+
+
+/* ============================================================
+   FORECAST CHART
+   ============================================================ */
+
+.demand-page .forecast-chart {
+  background: #ffffff !important;
+}
+
+.demand-page .forecast-bar {
+  background: #d71935 !important;
+}
+
+.demand-page .forecast-column span {
+  color: #526a7d !important;
+}
+
+
+/* ============================================================
+   ZONE RANKING
+   ============================================================ */
+
+.demand-page .ranking-list {
+  background: #ffffff !important;
+}
+
+.demand-page .ranking-row {
+  background: #ffffff !important;
+  border-bottom: 1px solid #e3e8ec !important;
+}
+
+.demand-page .rank-number {
+  color: #d71935 !important;
+}
+
+.demand-page .rank-title {
+  color: #172f44 !important;
+}
+
+.demand-page .rank-bar-track {
+  background: #e8edf1 !important;
+}
+
+.demand-page .rank-bar-fill {
+  background: #d71935 !important;
+}
+
+.demand-page .rank-value strong {
+  color: #172f44 !important;
+}
+
+.demand-page .rank-value small {
+  color: #62798b !important;
+}
+
+
+/* ============================================================
+   OPERATIONAL SIGNAL
+   ============================================================ */
+
+.demand-page .operational-card {
+  background: #fff8f9 !important;
+  border: 1px solid #efcbd1 !important;
+  border-left: 4px solid #d71935 !important;
+}
+
+.demand-page .operational-title h2 {
+  color: #172f44 !important;
+}
+
+.demand-page .operational-description {
+  color: #526a7d !important;
+}
+
+.demand-page .operational-highlight {
+  background: #ffffff !important;
+  border: 1px solid #dce5eb !important;
+}
+
+.demand-page .operational-highlight svg {
+  color: #d71935 !important;
+}
+
+.demand-page .operational-highlight strong {
+  color: #c91532 !important;
+}
+
+.demand-page .operational-highlight span {
+  color: #526a7d !important;
+}
+
+
+/* ============================================================
+   PROVENANCE
+   ============================================================ */
+
+.demand-page .provenance-card {
+  background: #ffffff !important;
+}
+
+.demand-page .provenance-card h2 {
+  color: #172f44 !important;
+}
+
+.demand-page .provenance-card p {
+  color: #526a7d !important;
+}
+
+.demand-page .provenance-icon {
+  color: #d71935 !important;
+}
+
+
+/* ============================================================
+   SOURCE BOX
+   ============================================================ */
+
+.demand-page .source-box {
+  background: #fff8f9 !important;
+  border: 1px solid #ead7dc !important;
+}
+
+.demand-page .source-box > span {
+  color: #d71935 !important;
+}
+
+.demand-page .source-box > strong {
+  color: #172f44 !important;
+}
+
+.demand-page .source-box > p {
+  color: #526a7d !important;
+}
+
+
+/* ============================================================
+   BUTTONS
+   ============================================================ */
+
+.demand-page .demand-controls {
+  background: #ffffff !important;
+  border: 1px solid #e0cbd0 !important;
+}
+
+.demand-page .demand-controls button {
+  color: #526a7d !important;
+  background: #ffffff !important;
+}
+
+.demand-page .demand-controls button:hover {
+  color: #c91532 !important;
+  background: #fff1f3 !important;
+}
+
+.demand-page .demand-controls button.active {
+  color: #ffffff !important;
+  background: #d71935 !important;
+}
+
+
+/* ============================================================
+   EMPTY / LOADING
+   ============================================================ */
+
+.demand-page .empty-state {
+  color: #526a7d !important;
+}
+
+
+/* ============================================================
+   MOBILE
+   ============================================================ */
+
+@media (max-width: 700px) {
+
+  .demand-page .demand-header h1 {
+    color: #172f44 !important;
+    font-size: 32px !important;
+  }
+
+  .demand-page .demand-header p {
+    color: #526a7d !important;
+    font-size: 14px !important;
+  }
+
+  .demand-page .demand-kpi-content strong {
+    color: #172f44 !important;
+  }
+
+  .demand-page .priority-header h2 {
+    color: #172f44 !important;
+  }
+
+}

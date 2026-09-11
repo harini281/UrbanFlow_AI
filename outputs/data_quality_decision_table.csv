@@ -1,0 +1,7 @@
+anomaly,detection_rule,count,percentage_of_total,treatment,reason
+Negative trip duration,dropoff_timestamp < pickup_timestamp,1942,0.003995738263259566,Exclude from ETA modeling; retain raw record and flag,Negative elapsed time is invalid as an ETA target
+Zero trip duration,trip_duration_seconds == 0,649668,1.3367164191633962,Exclude from ETA modeling; retain for other analyses where appropriate,A zero-duration trip cannot provide a valid elapsed-time target
+Provider 7 zero-duration records,provider_code == 7 AND trip_duration_seconds == 0,642536,1.322042060103887,Exclude from ETA modeling; retain for fare and spatial analysis,Provider 7 systematically records zero duration despite meaningful distance and fare
+Zero distance,distance_miles == 0,1478770,3.0426250625954414,Retain and flag,"Zero distance occurs frequently and may still contain useful fare, time and location information"
+Zero rider count,rider_count == 0,231578,0.47648047143621197,Retain and flag,Records may otherwise represent valid trips; no evidence justifies blanket deletion or imputation
+Unrealistic speed,calculated speed > 100 mph,11899,0.024482641397798953,Flag; exclude from ETA modeling,Extreme calculated speeds are inconsistent with realistic taxi travel and indicate distance/time anomalies

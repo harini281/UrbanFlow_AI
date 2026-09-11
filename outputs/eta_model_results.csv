@@ -1,0 +1,2 @@
+model,target,validation_mae_minutes,validation_rmse_minutes,validation_r2,test_mae_minutes,test_rmse_minutes,test_r2,training_rows,validation_rows,test_rows
+Enhanced_Log_Target,trip_duration_minutes,4.457001774397727,18.27180939396659,0.3238081434625325,4.148046739860237,20.89031159179757,0.26756761825020436,671183,143825,143825
