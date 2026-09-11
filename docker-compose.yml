@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  urbanflow:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: urbanflow-ai:latest
+    container_name: urbanflow_ai_app
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - CORS_ORIGINS=*
+      - VITE_API_URL=/api
+    restart: unless-stopped

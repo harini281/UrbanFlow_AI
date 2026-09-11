@@ -1,4 +1,4 @@
-﻿import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import {
   Activity,
   ArrowRight,
@@ -200,8 +200,8 @@ export default function ODFlows() {
             <strong>{error}</strong>
             <br />
             <small>
-              Confirm that FastAPI is running on port 8000 and refresh the
-              page.
+              Confirm that the backend API service is running and accessible,
+              then refresh the page.
             </small>
           </div>
         </section>

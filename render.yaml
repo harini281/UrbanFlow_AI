@@ -1,0 +1,16 @@
+services:
+  # ============================================================
+  # UrbanFlow AI - Unified Web Service (Render Free Tier)
+  # ============================================================
+  - type: web
+    name: urbanflow-ai
+    env: docker
+    plan: free
+    dockerfilePath: Dockerfile
+    dockerContext: .
+    healthCheckPath: /api/health
+    envVars:
+      - key: PORT
+        value: 8000
+      - key: CORS_ORIGINS
+        value: "*"

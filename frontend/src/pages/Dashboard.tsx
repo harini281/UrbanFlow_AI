@@ -118,7 +118,7 @@ export default function Dashboard() {
         <h2>Dashboard connection failed</h2>
         <p>{error}</p>
         <small>
-          Make sure FastAPI is running on port 8000.
+          Make sure the backend API service is running and accessible.
         </small>
       </div>
     );
